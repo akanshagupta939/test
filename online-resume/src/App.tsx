@@ -22,7 +22,7 @@ const navigation = {
 const resumeDate = {
   name: "Akansha",
   role: "Software Engineer",
-  experience: "2 years and 8 months",
+  experience: "",
 };
 function App() {
   const { brand, links } = navigation;
