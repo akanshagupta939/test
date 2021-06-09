@@ -1,0 +1,31 @@
+.header {
+  width: 98%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  margin: auto;
+}
+.nav {
+  margin: 20px;
+  color: white;
+}
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: aquamarine;
+}
+
+/* mouse over link */
+a:hover {
+  color: pink;
+}
+
+/* selected link */
+a:active {
+  color: cadetblue;
+}
