@@ -8,24 +8,24 @@
 }
 .nav {
   margin: 20px;
-  color: white;
+  color: black;
 }
 /* unvisited link */
 a:link {
-  color: white;
+  color: black;
 }
 
 /* visited link */
 a:visited {
-  color: aquamarine;
+  color: black;
 }
 
 /* mouse over link */
 a:hover {
-  color: pink;
+  color: darkorange;
 }
 
 /* selected link */
 a:active {
-  color: cadetblue;
+  color: darkorange;
 }
